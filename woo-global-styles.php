@@ -3,7 +3,7 @@
  * Plugin Name: Woo Global Styles
  * Plugin URI: https://www.haywood.de/
  * Description: Woo Global Styles lets you control the main set of Woocommerce colors from within the global settings panel of Elementor.
- * Version: 0.1
+ * Version: 0.2
  * Author: Haywood Digital Tools
  * Author URI: https://www.haywood.de/
  * Text Domain: woo-global-styles
